@@ -1,1 +1,5 @@
 *.opendb
+
+./images/*
+
+./sound/*
